@@ -11,7 +11,7 @@
 
 * app.py
 
-    *   Create a Flas application with the following routes:
+    *   Create a Flask application with the following routes:
         *   A precipitation route that:
             *   Returns json with the date as the key and the value as the precipitation
             *   Only returns the jsonified precipitation data for the last year in the database
